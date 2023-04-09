@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tyler@nanobox.io"]
 
   spec.summary       = %q{Ruby client for interacting with the hoarder service}
-  spec.homepage      = "https://github.com/nanopack/hoarder-client-ruby"
+  spec.homepage      = "https://github.com/mu-box/hoarder-client-ruby"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

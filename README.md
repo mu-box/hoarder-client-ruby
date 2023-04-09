@@ -1,6 +1,6 @@
 # hoarder
 
-A Ruby client for interacting with the [hoarder](https://github.com/nanopack/hoarder) service.
+A Ruby client for interacting with the [hoarder](https://github.com/mu-box/hoarder) service.
 
 ## Installation
 
@@ -54,9 +54,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/nanopack/hoarder.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mu-box/hoarder.
 
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+This project is released under [The MIT License](http://opensource.org/licenses/MIT).
